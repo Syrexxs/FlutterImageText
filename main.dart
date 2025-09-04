@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+Flutter Image Posterimport 'package:flutter/material.dart';
 
 /*the purpose of this syntax is to import the flutter material design libabry
 widgets and tools for building a material design base on UI(google design system)
